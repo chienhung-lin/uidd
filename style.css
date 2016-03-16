@@ -1,8 +1,0 @@
-div {
-  height: 200px;
-  background: red;
-  background: -webkit-linear-gradient(red, yellow);
-  background: -o-linear-gradient(red, yellow);
-  background: -moz-linear-gradient(red, yellow);
-  background: linear-gradient(red, yellow);
-}
